@@ -1,5 +1,4 @@
-
-    <!-- Libs JS -->
+<!-- Libs JS -->
 <script src="../assets/libs/jquery/dist/jquery.min.js"></script>
 <script src="../assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script src="../assets/libs/simplebar/dist/simplebar.min.js"></script>
@@ -17,10 +16,11 @@
 
 <!-- jquery ajax cdn -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<script src="cat.js"></script>
+<script src="ajax/Ajax.js"></script>
 
 </body>
 
 
 <!-- Mirrored from freshcart.codescandy.com/dashboard/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 31 Mar 2023 10:10:46 GMT -->
+
 </html>

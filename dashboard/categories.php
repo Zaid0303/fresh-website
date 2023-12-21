@@ -6,11 +6,6 @@ include('../config.php');
 ?>
 
 
-
-
-
-
-
 <!-- main -->
 <main class="main-content-wrapper">
   <div class="container">

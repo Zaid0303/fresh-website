@@ -26,4 +26,24 @@ $(document).ready(function () {
         });
       });
     });
+    // add Products 
+    let product_form = $('#pdt_form');
+    let pmsg = $('#pmsg');
+    product_form.on('submit', function(e){
+      e.preventDefault();
+      let form_data = new FormData(this);
+      $.ajax({
+        url : 'addproduct.php',
+        method : "POST",
+        data : form_data,
+        contentType :false,
+        processData : false,
+        success : function(data){
+          console.log(data);
+          alert(data)
+        }
+        
+      })
+    })
+  
   });

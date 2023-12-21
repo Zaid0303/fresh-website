@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from freshcart.codescandy.com/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 31 Mar 2023 10:09:24 GMT -->
+<!-- Mirrored from freshcart.codescandy.com/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 31 Mar 2023 10:09:24 GMT -->
 <head>
 
   <title>FreshCart - eCommerce HTML Template</title>
@@ -123,12 +123,12 @@
       <div class="container">
         <div class="row w-100 align-items-center gx-lg-2 gx-0">
           <div class="col-xxl-2 col-lg-3">
-            <a class="navbar-brand d-none d-lg-block" href="index.html">
+            <a class="navbar-brand d-none d-lg-block" href="index.php">
               <img src="assets/images/logo/freshcart-logo.svg" alt="eCommerce HTML Template">
 
             </a>
             <div class="d-flex justify-content-between w-100 d-lg-none">
-              <a class="navbar-brand" href="index.html">
+              <a class="navbar-brand" href="index.php">
                 <img src="assets/images/logo/freshcart-logo.svg" alt="eCommerce HTML Template">
 
               </a>
@@ -214,7 +214,7 @@
             <div class="list-inline">
               <div class="list-inline-item">
 
-                <a href="pages/shop-wishlist.html" class="text-muted position-relative">
+                <a href="pages/shop-wishlist.php" class="text-muted position-relative">
 
                   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
                     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
@@ -284,18 +284,18 @@
             </svg></span> All Departments
         </button>
         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-          <li><a class="dropdown-item" href="pages/shop-grid.html">Dairy, Bread & Eggs</a></li>
-          <li><a class="dropdown-item" href="pages/shop-grid.html">Snacks & Munchies</a></li>
-          <li><a class="dropdown-item" href="pages/shop-grid.html">Fruits & Vegetables</a></li>
-          <li><a class="dropdown-item" href="pages/shop-grid.html">Cold Drinks & Juices</a></li>
-          <li><a class="dropdown-item" href="pages/shop-grid.html">Breakfast & Instant Food</a></li>
-          <li><a class="dropdown-item" href="pages/shop-grid.html">Bakery & Biscuits</a></li>
-          <li><a class="dropdown-item" href="pages/shop-grid.html">Chicken, Meat & Fish</a></li>
+          <li><a class="dropdown-item" href="pages/shop-grid.php">Dairy, Bread & Eggs</a></li>
+          <li><a class="dropdown-item" href="pages/shop-grid.php">Snacks & Munchies</a></li>
+          <li><a class="dropdown-item" href="pages/shop-grid.php">Fruits & Vegetables</a></li>
+          <li><a class="dropdown-item" href="pages/shop-grid.php">Cold Drinks & Juices</a></li>
+          <li><a class="dropdown-item" href="pages/shop-grid.php">Breakfast & Instant Food</a></li>
+          <li><a class="dropdown-item" href="pages/shop-grid.php">Bakery & Biscuits</a></li>
+          <li><a class="dropdown-item" href="pages/shop-grid.php">Chicken, Meat & Fish</a></li>
         </ul>
       </div>
       <div class="offcanvas offcanvas-start p-4 p-lg-0" id="navbar-default">
         <div class="d-flex justify-content-between align-items-center mb-2 d-block d-lg-none">
-          <a href="index.html"><img src="assets/images/logo/freshcart-logo.svg"
+          <a href="index.php"><img src="assets/images/logo/freshcart-logo.svg"
               alt="eCommerce HTML Template"></a>
           <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
@@ -337,13 +337,13 @@
           <div class="collapse mt-2" id="collapseExample">
             <div class="card card-body">
               <ul class="mb-0 list-unstyled">
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Dairy, Bread & Eggs</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Snacks & Munchies</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Fruits & Vegetables</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Cold Drinks & Juices</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Breakfast & Instant Food</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Bakery & Biscuits</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Chicken, Meat & Fish</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Dairy, Bread & Eggs</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Snacks & Munchies</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Fruits & Vegetables</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Cold Drinks & Juices</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Breakfast & Instant Food</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Bakery & Biscuits</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Chicken, Meat & Fish</a></li>
               </ul>
             </div>
           </div>
@@ -356,10 +356,10 @@
                 Home
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="index.html">Home 1</a></li>
-                <li><a class="dropdown-item" href="pages/index-2.html">Home 2</a></li>
-                <li><a class="dropdown-item" href="pages/index-3.html">Home 3</a></li>
-                <li><a class="dropdown-item" href="pages/index-4.html">Home 4 <span
+                <li><a class="dropdown-item" href="index.php">Home 1</a></li>
+                <li><a class="dropdown-item" href="pages/index-2.php">Home 2</a></li>
+                <li><a class="dropdown-item" href="pages/index-3.php">Home 3</a></li>
+                <li><a class="dropdown-item" href="pages/index-4.php">Home 4 <span
                       class="badge bg-light-info text-dark-info ms-1">New</span></a></li>
               </ul>
             </li>
@@ -369,18 +369,18 @@
                 Shop
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Shop Grid - Filter</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid-3-column.html">Shop Grid - 3 column</a>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Shop Grid - Filter</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid-3-column.php">Shop Grid - 3 column</a>
                 </li>
-                <li><a class="dropdown-item" href="pages/shop-list.html">Shop List - Filter</a></li>
-                <li><a class="dropdown-item" href="pages/shop-filter.html">Shop - Filter</a></li>
-                <li><a class="dropdown-item" href="pages/shop-fullwidth.html">Shop Wide</a></li>
-                <li><a class="dropdown-item" href="pages/shop-single.html">Shop Single</a></li>
-                <li><a class="dropdown-item" href="pages/shop-single-2.html">Shop Single v2<span
+                <li><a class="dropdown-item" href="pages/shop-list.php">Shop List - Filter</a></li>
+                <li><a class="dropdown-item" href="pages/shop-filter.php">Shop - Filter</a></li>
+                <li><a class="dropdown-item" href="pages/shop-fullwidth.php">Shop Wide</a></li>
+                <li><a class="dropdown-item" href="pages/shop-single.php">Shop Single</a></li>
+                <li><a class="dropdown-item" href="pages/shop-single-2.php">Shop Single v2<span
                       class="badge bg-light-info text-dark-info ms-1">New</span></a></li>
-                <li><a class="dropdown-item" href="pages/shop-wishlist.html">Shop Wishlist</a></li>
-                <li><a class="dropdown-item" href="pages/shop-cart.html">Shop Cart</a></li>
-                <li><a class="dropdown-item" href="pages/shop-checkout.html">Shop Checkout</a></li>
+                <li><a class="dropdown-item" href="pages/shop-wishlist.php">Shop Wishlist</a></li>
+                <li><a class="dropdown-item" href="pages/shop-cart.php">Shop Cart</a></li>
+                <li><a class="dropdown-item" href="pages/shop-checkout.php">Shop Checkout</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -389,9 +389,9 @@
                 Stores
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/store-list.html">Store List</a></li>
-                <li><a class="dropdown-item" href="pages/store-grid.html">Store Grid</a></li>
-                <li><a class="dropdown-item" href="pages/store-single.html">Store Single</a></li>
+                <li><a class="dropdown-item" href="pages/store-list.php">Store List</a></li>
+                <li><a class="dropdown-item" href="pages/store-grid.php">Store Grid</a></li>
+                <li><a class="dropdown-item" href="pages/store-single.php">Store Single</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown dropdown-fullwidth">
@@ -403,36 +403,36 @@
                 <div class="row p-2 p-lg-4">
                   <div class="col-lg-3 col-6 mb-4 mb-lg-0">
                     <h6 class="text-primary ps-3">Dairy, Bread & Eggs</h6>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Butter</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Milk Drinks</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Curd & Yogurt</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Eggs</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Buns & Bakery</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Cheese</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Condensed Milk</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Dairy Products</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Butter</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Milk Drinks</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Curd & Yogurt</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Eggs</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Buns & Bakery</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Cheese</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Condensed Milk</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Dairy Products</a>
                   </div>
                   <div class="col-lg-3 col-6 mb-4 mb-lg-0">
                     <h6 class="text-primary ps-3">Breakfast & Instant Food</h6>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Breakfast Cereal</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html"> Noodles, Pasta & Soup</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Frozen Veg Snacks</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html"> Frozen Non-Veg Snacks</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html"> Vermicelli</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html"> Instant Mixes</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html"> Batter</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html"> Fruit and Juices</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Breakfast Cereal</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php"> Noodles, Pasta & Soup</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Frozen Veg Snacks</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php"> Frozen Non-Veg Snacks</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php"> Vermicelli</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php"> Instant Mixes</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php"> Batter</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php"> Fruit and Juices</a>
                   </div>
                   <div class="col-lg-3 col-12 mb-4 mb-lg-0">
                     <h6 class="text-primary ps-3">Cold Drinks & Juices</h6>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Soft Drinks</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Fruit Juices</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Coldpress</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Water & Ice Cubes</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Soda & Mixers</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Health Drinks</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Herbal Drinks</a>
-                    <a class="dropdown-item" href="pages/shop-grid.html">Milk Drinks</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Soft Drinks</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Fruit Juices</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Coldpress</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Water & Ice Cubes</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Soda & Mixers</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Health Drinks</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Herbal Drinks</a>
+                    <a class="dropdown-item" href="pages/shop-grid.php">Milk Drinks</a>
                   </div>
                   <div class="col-lg-3 col-12 mb-4 mb-lg-0">
                     <div class="card border-0">
@@ -453,12 +453,12 @@
                 Pages
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/blog.html">Blog</a></li>
-                <li><a class="dropdown-item" href="pages/blog-single.html">Blog Single</a></li>
-                <li><a class="dropdown-item" href="pages/blog-category.html">Blog Category</a></li>
-                <li><a class="dropdown-item" href="pages/about.html">About us</a></li>
-                <li><a class="dropdown-item" href="pages/404error.html">404 Error</a></li>
-                <li><a class="dropdown-item" href="pages/contact.html">Contact</a></li>
+                <li><a class="dropdown-item" href="pages/blog.php">Blog</a></li>
+                <li><a class="dropdown-item" href="pages/blog-single.php">Blog Single</a></li>
+                <li><a class="dropdown-item" href="pages/blog-category.php">Blog Category</a></li>
+                <li><a class="dropdown-item" href="pages/about.php">About us</a></li>
+                <li><a class="dropdown-item" href="pages/404error.php">404 Error</a></li>
+                <li><a class="dropdown-item" href="pages/contact.php">Contact</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -467,26 +467,26 @@
                 Account
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/signin.html">Sign in</a></li>
-                <li><a class="dropdown-item" href="pages/signup.html">Signup</a></li>
-                <li><a class="dropdown-item" href="pages/forgot-password.html">Forgot Password</a></li>
+                <li><a class="dropdown-item" href="pages/signin.php">Sign in</a></li>
+                <li><a class="dropdown-item" href="pages/signup.php">Signup</a></li>
+                <li><a class="dropdown-item" href="pages/forgot-password.php">Forgot Password</a></li>
                 <li class="dropdown-submenu dropend">
                   <a class="dropdown-item dropdown-list-group-item dropdown-toggle" href="#">
                     My Account
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="pages/account-orders.html">Orders</a></li>
-                    <li><a class="dropdown-item" href="pages/account-settings.html">Settings</a></li>
-                    <li><a class="dropdown-item" href="pages/account-address.html">Address</a></li>
-                    <li><a class="dropdown-item" href="pages/account-payment-method.html">Payment Method</a>
+                    <li><a class="dropdown-item" href="pages/account-orders.php">Orders</a></li>
+                    <li><a class="dropdown-item" href="pages/account-settings.php">Settings</a></li>
+                    <li><a class="dropdown-item" href="pages/account-address.php">Address</a></li>
+                    <li><a class="dropdown-item" href="pages/account-payment-method.php">Payment Method</a>
                     </li>
-                    <li><a class="dropdown-item" href="pages/account-notification.html">Notification</a></li>
+                    <li><a class="dropdown-item" href="pages/account-notification.php">Notification</a></li>
                   </ul>
                 </li>
               </ul>
             </li>
             <li class="nav-item ">
-              <a class="nav-link" href="dashboard/index.html">
+              <a class="nav-link" href="dashboard/index.php">
                 Dashboard
               </a>
             </li>
@@ -496,7 +496,7 @@
                 Docs
               </a>
               <div class="dropdown-menu dropdown-menu-lg" aria-labelledby="navbarDropdownDocs">
-                <a class="dropdown-item align-items-start" href="docs/index.html">
+                <a class="dropdown-item align-items-start" href="docs/index.php">
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                       class="bi bi-file-text text-primary" viewBox="0 0 16 16">
@@ -513,7 +513,7 @@
                     </p>
                   </div>
                 </a>
-                <a class="dropdown-item align-items-start" href="docs/changelog.html">
+                <a class="dropdown-item align-items-start" href="docs/changelog.php">
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                       class="bi bi-layers text-primary" viewBox="0 0 16 16">
@@ -540,10 +540,10 @@
                 Home
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="index.html">Home 1</a></li>
-                <li><a class="dropdown-item" href="pages/index-2.html">Home 2</a></li>
-                <li><a class="dropdown-item" href="pages/index-3.html">Home 3</a></li>
-                <li><a class="dropdown-item" href="pages/index-4.html">Home 4 <span
+                <li><a class="dropdown-item" href="index.php">Home 1</a></li>
+                <li><a class="dropdown-item" href="pages/index-2.php">Home 2</a></li>
+                <li><a class="dropdown-item" href="pages/index-3.php">Home 3</a></li>
+                <li><a class="dropdown-item" href="pages/index-4.php">Home 4 <span
                       class="badge bg-light-info text-dark-info ms-1">New</span></a></li>
               </ul>
             </li>
@@ -553,18 +553,18 @@
                 Shop
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/shop-grid.html">Shop Grid - Filter</a></li>
-                <li><a class="dropdown-item" href="pages/shop-grid-3-column.html">Shop Grid - 3 column</a>
+                <li><a class="dropdown-item" href="pages/shop-grid.php">Shop Grid - Filter</a></li>
+                <li><a class="dropdown-item" href="pages/shop-grid-3-column.php">Shop Grid - 3 column</a>
                 </li>
-                <li><a class="dropdown-item" href="pages/shop-list.html">Shop List - Filter</a></li>
-                <li><a class="dropdown-item" href="pages/shop-filter.html">Shop - Filter</a></li>
-                <li><a class="dropdown-item" href="pages/shop-fullwidth.html">Shop Wide</a></li>
-                <li><a class="dropdown-item" href="pages/shop-single.html">Shop Single</a></li>
-                <li><a class="dropdown-item" href="pages/shop-single-2.html">Shop Single v2<span
+                <li><a class="dropdown-item" href="pages/shop-list.php">Shop List - Filter</a></li>
+                <li><a class="dropdown-item" href="pages/shop-filter.php">Shop - Filter</a></li>
+                <li><a class="dropdown-item" href="pages/shop-fullwidth.php">Shop Wide</a></li>
+                <li><a class="dropdown-item" href="pages/shop-single.php">Shop Single</a></li>
+                <li><a class="dropdown-item" href="pages/shop-single-2.php">Shop Single v2<span
                       class="badge bg-light-info text-dark-info ms-1">New</span></a></li>
-                <li><a class="dropdown-item" href="pages/shop-wishlist.html">Shop Wishlist</a></li>
-                <li><a class="dropdown-item" href="pages/shop-cart.html">Shop Cart</a></li>
-                <li><a class="dropdown-item" href="pages/shop-checkout.html">Shop Checkout</a></li>
+                <li><a class="dropdown-item" href="pages/shop-wishlist.php">Shop Wishlist</a></li>
+                <li><a class="dropdown-item" href="pages/shop-cart.php">Shop Cart</a></li>
+                <li><a class="dropdown-item" href="pages/shop-checkout.php">Shop Checkout</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -573,9 +573,9 @@
                 Stores
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/store-list.html">Store List</a></li>
-                <li><a class="dropdown-item" href="pages/store-grid.html">Store Grid</a></li>
-                <li><a class="dropdown-item" href="pages/store-single.html">Store Single</a></li>
+                <li><a class="dropdown-item" href="pages/store-list.php">Store List</a></li>
+                <li><a class="dropdown-item" href="pages/store-grid.php">Store Grid</a></li>
+                <li><a class="dropdown-item" href="pages/store-single.php">Store Single</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -589,13 +589,13 @@
                     Dairy, Bread & Eggs
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Milk Drinks</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Curd & Yogurt</a></li>
-                    <li> <a class="dropdown-item" href="pages/shop-grid.html">Eggs</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Buns & Bakery</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Cheese</a></li>
-                    <li> <a class="dropdown-item" href="pages/shop-grid.html">Condensed Milk</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Dairy Products</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Milk Drinks</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Curd & Yogurt</a></li>
+                    <li> <a class="dropdown-item" href="pages/shop-grid.php">Eggs</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Buns & Bakery</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Cheese</a></li>
+                    <li> <a class="dropdown-item" href="pages/shop-grid.php">Condensed Milk</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Dairy Products</a></li>
                   </ul>
                 </li>
                 <li class="dropdown-submenu ">
@@ -603,11 +603,11 @@
                     Vegetables & Fruits
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Vegetables</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Fruits</a></li>
-                    <li> <a class="dropdown-item" href="pages/shop-grid.html">Exotics & Premium</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Fresh Sprouts</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Frozen Veg</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Vegetables</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Fruits</a></li>
+                    <li> <a class="dropdown-item" href="pages/shop-grid.php">Exotics & Premium</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Fresh Sprouts</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Frozen Veg</a></li>
                   </ul>
                 </li>
                 <li class="dropdown-submenu ">
@@ -615,13 +615,13 @@
                     Cold Drinks & Juices
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Soft Drinks</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Fruit Juices</a></li>
-                    <li> <a class="dropdown-item" href="pages/shop-grid.html">Coldpress</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Soda & Mixers</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Milk Drinks</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Health Drinks</a></li>
-                    <li><a class="dropdown-item" href="pages/shop-grid.html">Herbal Drinks</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Soft Drinks</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Fruit Juices</a></li>
+                    <li> <a class="dropdown-item" href="pages/shop-grid.php">Coldpress</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Soda & Mixers</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Milk Drinks</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Health Drinks</a></li>
+                    <li><a class="dropdown-item" href="pages/shop-grid.php">Herbal Drinks</a></li>
                   </ul>
                 </li>
               </ul>
@@ -632,12 +632,12 @@
                 Pages
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/blog.html">Blog</a></li>
-                <li><a class="dropdown-item" href="pages/blog-single.html">Blog Single</a></li>
-                <li><a class="dropdown-item" href="pages/blog-category.html">Blog Category</a></li>
-                <li><a class="dropdown-item" href="pages/about.html">About us</a></li>
-                <li><a class="dropdown-item" href="pages/404error.html">404 Error</a></li>
-                <li><a class="dropdown-item" href="pages/contact.html">Contact</a></li>
+                <li><a class="dropdown-item" href="pages/blog.php">Blog</a></li>
+                <li><a class="dropdown-item" href="pages/blog-single.php">Blog Single</a></li>
+                <li><a class="dropdown-item" href="pages/blog-category.php">Blog Category</a></li>
+                <li><a class="dropdown-item" href="pages/about.php">About us</a></li>
+                <li><a class="dropdown-item" href="pages/404error.php">404 Error</a></li>
+                <li><a class="dropdown-item" href="pages/contact.php">Contact</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -646,26 +646,26 @@
                 Account
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="pages/signin.html">Sign in</a></li>
-                <li><a class="dropdown-item" href="pages/signup.html">Signup</a></li>
-                <li><a class="dropdown-item" href="pages/forgot-password.html">Forgot Password</a></li>
+                <li><a class="dropdown-item" href="pages/signin.php">Sign in</a></li>
+                <li><a class="dropdown-item" href="pages/signup.php">Signup</a></li>
+                <li><a class="dropdown-item" href="pages/forgot-password.php">Forgot Password</a></li>
                 <li class="dropdown-submenu dropend">
                   <a class="dropdown-item dropdown-list-group-item dropdown-toggle" href="#">
                     My Account
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="pages/account-orders.html">Orders</a></li>
-                    <li><a class="dropdown-item" href="pages/account-settings.html">Settings</a></li>
-                    <li><a class="dropdown-item" href="pages/account-address.html">Address</a></li>
-                    <li><a class="dropdown-item" href="pages/account-payment-method.html">Payment Method</a>
+                    <li><a class="dropdown-item" href="pages/account-orders.php">Orders</a></li>
+                    <li><a class="dropdown-item" href="pages/account-settings.php">Settings</a></li>
+                    <li><a class="dropdown-item" href="pages/account-address.php">Address</a></li>
+                    <li><a class="dropdown-item" href="pages/account-payment-method.php">Payment Method</a>
                     </li>
-                    <li><a class="dropdown-item" href="pages/account-notification.html">Notification</a></li>
+                    <li><a class="dropdown-item" href="pages/account-notification.php">Notification</a></li>
                   </ul>
                 </li>
               </ul>
             </li>
             <li class="nav-item ">
-              <a class="nav-link" href="dashboard/index.html">
+              <a class="nav-link" href="dashboard/index.php">
                 Dashboard
               </a>
             </li>
@@ -675,7 +675,7 @@
                 Docs
               </a>
               <div class="dropdown-menu dropdown-menu-lg" aria-labelledby="navbarDropdownDocs2">
-                <a class="dropdown-item align-items-start" href="docs/index.html">
+                <a class="dropdown-item align-items-start" href="docs/index.php">
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                       class="bi bi-file-text text-primary" viewBox="0 0 16 16">
@@ -692,7 +692,7 @@
                     </p>
                   </div>
                 </a>
-                <a class="dropdown-item align-items-start" href="docs/changelog.html">
+                <a class="dropdown-item align-items-start" href="docs/changelog.php">
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                       class="bi bi-layers text-primary" viewBox="0 0 16 16">

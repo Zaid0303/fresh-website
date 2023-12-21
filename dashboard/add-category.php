@@ -130,7 +130,7 @@ include('includes/sidebar.php');
 
 </body>
 
-<script src="ajax/cat.js"></script>
+<script src="ajax/Ajax.js"></script>
 
 
 
